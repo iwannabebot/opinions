@@ -4,7 +4,7 @@
   "description": "Project for opinions.nilayvishwakarma.com",
   "start": "server.js",
   "scripts": {
-      "start": "node server.js"
+      "start": "npm install && node server.js"
   },
   "dependencies": {
       "compression": "^1.7.4",
