@@ -1,0 +1,15 @@
+{
+    "version": "0.0.0",
+    "name": "nilays-opinions",
+    "description": "Project for opinions.nilayvishwakarma.com",
+    "start": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+    }
+  }
+  

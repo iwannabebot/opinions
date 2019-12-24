@@ -2,12 +2,11 @@
   "version": "0.0.0",
   "name": "nilays-opinions",
   "description": "Project for opinions.nilayvishwakarma.com",
-  "main": "index",
   "scripts": {
     "develop": "npm run clean && gatsby develop",
     "build": "npm run clean && gatsby build",
     "deploy": "npm run clean && gatsby build --prefix-paths && npm run move",
-    "move": "mkdir dist && ncp public dist/public && ncp \"package.json\" \"dist/package.json\" && ncp \"index.js\" \"dist/index.js\"",
+    "move": "mkdir dist && ncp public dist/public && ncp \"public-package.json\" \"dist/package.json\" && ncp \"server.js\" \"dist/server.js\"",
     "clean": "rimraf .cache public dist",
     "flow": "flow",
     "lint:js": "eslint --cache --ext .js,.jsx .",
