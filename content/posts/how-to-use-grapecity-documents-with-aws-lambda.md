@@ -8,7 +8,7 @@ category: "Technology"
 tags:
   - "AWS"
   - "Lambda"
-  - "GraeCity"
+  - "GrapeCity"
   - "Web API"
 description: "GrapeCity Documents are fast and efficient APIs that provide full control of your Excel and PDF documents. GrapeCity Documents for Excel is a server-side spreadsheet API, that can generate, load, save, convert, calculate, format, parse, and export spreadsheets without having MS Excel dependencies."
 socialImage: "https://grapecitycontentcdn.azureedge.net/blogs/activereports/20180614-ar-webinar-files/lambda.png"

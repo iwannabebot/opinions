@@ -9,7 +9,7 @@ tags:
   - "Azure"
   - "Functions"
   - "Serverless"
-  - "GraeCity"
+  - "GrapeCity"
 description: "GrapeCity Documents are fast and efficient APIs that can provide full control of your Excel and PDF documents. GrapeCity Documents for Excel is a server-side spreadsheet API, that can generate, load, save, convert, calculate, format, parse, and export spreadsheets without having MS Excel dependencies."
 socialImage: "https://grapecitycontentcdn.azureedge.net/blogs/gcdocuments/20180613-how-to-use-grapecity-documents-with-azure-functions/blog-grapeCity-documents-azure-functions.png"
 ---
