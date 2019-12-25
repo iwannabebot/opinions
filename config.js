@@ -1,9 +1,9 @@
 'use strict';
 
 module.exports = {
-  url: 'https://opinions.nilayvishwakarma.com',
+  url: 'https://www.nilayvishwakarma.com',
   pathPrefix: '/',
-  title: 'Opinions by Nilay Vishwakarma',
+  title: 'Nilay Vishwakarma',
   subtitle: 'Informed Liberal and Stargazer, I code for 🥣 and write for dopamine',
   copyright: '© All rights reserved.',
   disqusShortname: '',
