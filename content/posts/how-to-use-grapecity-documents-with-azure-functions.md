@@ -42,7 +42,6 @@ using Newtonsoft.Json;
 using GrapeCity.Documents.Excel;
 using GrapeCity.Documents.Text;
 using System.Drawing;
-
 namespace GrapeCityDocsAzFunc
 {
     public static class GenerateExcel
@@ -100,7 +99,6 @@ using Newtonsoft.Json;
 using GrapeCity.Documents.Pdf;
 using GrapeCity.Documents.Text;
 using System.Drawing;
-
 namespace GrapeCityDocsAzFunc
 {
     public static class GeneratePdf

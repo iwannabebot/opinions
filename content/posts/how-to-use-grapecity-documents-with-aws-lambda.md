@@ -46,7 +46,6 @@ using GrapeCity.Documents.Text;
 using GrapeCity.Documents.Excel;
 using System.Drawing;
 using System.IO;
-
 namespace GrapeCityDocsAWSLambda.Controllers
 {
     [Route("api/[controller]")]
