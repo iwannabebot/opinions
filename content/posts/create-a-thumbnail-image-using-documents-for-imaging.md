@@ -1,6 +1,6 @@
 ---
 title: "How to create a thumbnail image on AWS S3 using an Imaging API"
-date: "2017-08-18T22:12:03.284Z"
+date: "2019-04-18T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "create-a-thumbnail-image-using-documents-for-imaging"

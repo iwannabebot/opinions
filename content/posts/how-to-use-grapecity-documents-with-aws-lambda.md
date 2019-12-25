@@ -1,6 +1,6 @@
 ---
 title: "How to use GrapeCity Documents with AWS Lambda?"
-date: "2017-08-18T22:12:03.284Z"
+date: "20-05-18T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "how-to-use-grapecity-documents-with-aws-lambda"

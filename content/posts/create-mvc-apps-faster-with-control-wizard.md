@@ -1,6 +1,6 @@
 ---
 title: "Create MVC Apps Faster with Control Wizard"
-date: "2017-08-18T22:12:03.284Z"
+date: "2019-03-18T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "create-mvc-apps-faster-with-control-wizard"

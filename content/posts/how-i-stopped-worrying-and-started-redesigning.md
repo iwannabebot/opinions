@@ -1,6 +1,6 @@
 ---
 title: "How I stopped worrying and started redesigning?"
-date: "2017-08-18T22:12:03.284Z"
+date: "2018-08-18T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "how-i-stopped-worrying-and-started-redesigning"

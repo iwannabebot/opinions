@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to Azure Functions"
-date: "2017-08-18T22:12:03.284Z"
+date: "2019-01-01T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "an-introduction-to-azure-functions"

@@ -1,6 +1,6 @@
 ---
 title: "An Introduction to Material Design for ComponentOne Studio - MVC Edition"
-date: "2016-02-02T22:40:32.169Z"
+date: "2018-02-02T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "an-introduction-to-material-design-for-componentone-studio-mvc-edition"

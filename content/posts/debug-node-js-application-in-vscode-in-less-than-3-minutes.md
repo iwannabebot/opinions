@@ -1,6 +1,6 @@
 ---
 title: "Debug Node.js application in VSCode!"
-date: "2017-08-18T22:12:03.284Z"
+date: "2018-10-18T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "debug-node-js-application-in-vscode-in-less-than-3-minutes"

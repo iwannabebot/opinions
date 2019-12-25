@@ -1,6 +1,6 @@
 ---
 title: "How to Add Security in C1 Web API?"
-date: "2017-08-18T22:12:03.284Z"
+date: "2018-10-18T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "how-to-add-security-in-a-c1web-api"

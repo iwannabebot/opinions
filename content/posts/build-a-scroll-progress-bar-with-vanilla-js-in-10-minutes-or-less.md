@@ -1,6 +1,6 @@
 ---
 title: Build a scroll progress bar with vanilla js in 2 minutes or less
-date: "2017-08-19T22:40:32.169Z"
+date: "2019-07-21T00:00:00.000Z"
 template: "post"
 draft: false
 slug: "build-a-scroll-progress-bar-with-vanilla-js-in-10-minutes-or-less"

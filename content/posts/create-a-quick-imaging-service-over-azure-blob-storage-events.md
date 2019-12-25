@@ -1,6 +1,6 @@
 ---
 title: "How to Create an Imaging Service over Azure Blob Storage Events"
-date: "2017-08-18T22:12:03.284Z"
+date: "2019-05-18T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "create-a-quick-imaging-service-over-azure-blob-storage-events"

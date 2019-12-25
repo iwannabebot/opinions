@@ -1,6 +1,6 @@
 ---
 title: Build an npm package with TypeScript
-date: "2017-08-19T22:40:32.169Z"
+date: "2018-07-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "build-an-npm-package-with-typescript"

@@ -1,6 +1,6 @@
 ---
 title: "Configure Bearer middleware for SwaggerUI in ASP.NET Core 2.0"
-date: "2016-09-01T23:46:37.121Z"
+date: "2018-12-01T23:46:37.121Z"
 template: "post"
 draft: false
 slug: "configure-bearer-middleware-for-swaggerui-in-asp-net-core-2-0"

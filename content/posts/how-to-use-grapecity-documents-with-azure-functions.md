@@ -1,6 +1,6 @@
 ---
 title: "Using PDF and Excel API with Azure Cloud Functions"
-date: "2017-08-18T22:12:03.284Z"
+date: "2019-07-21T22:12:03.284Z"
 template: "post"
 draft: false
 slug: "how-to-use-grapecity-documents-with-azure-functions"
