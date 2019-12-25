@@ -1,14 +1,14 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://opinions.nilayvishwakarma.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Opinions by Nilay Vishwakarma',
+  subtitle: 'Informed Liberal and Stargazer, I code for 🥣 and write for dopamine',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  googleAnalyticsId: 'UA-42374936-2',
   useKatex: false,
   menu: [
     {
@@ -18,30 +18,26 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Nilay Vishwakarma',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Informed Liberal and Stargazer, I code for 🥣 and write for dopamine',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'nilayvishwakarma@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'iwannabebot',
+      github: 'iwannabebot',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'nilayvishwakarma',
+      instagram: 'iamnotnilay',
       line: '',
       gitlab: '',
       weibo: '',
-      codepen: '',
+      codepen: 'iwannabebot',
       youtube: ''
     }
   }
