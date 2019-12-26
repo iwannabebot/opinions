@@ -13,6 +13,8 @@ description: "Functions are feature-packed FaaS offerings from Microsoft Azure t
 socialImage: "https://grapecitycontentcdn.azureedge.net/blogs/grapecity/20181112-an-introduction-to-azure-functions-/azure-header.jpg"
 ---
 
+![](https://grapecitycontentcdn.azureedge.net/blogs/grapecity/20181112-an-introduction-to-azure-functions-/azure-header.jpg)
+
 Last month, when I wrote a blog on [How to use GrapeCity Documents with Azure Functions](https://www.grapecity.com/en/blogs/how-to-use-grapecity-documents-with-azure-functions), I wanted to write another post to dive into Azure Functions in further detail. If, like me, you aren't a big fan of App Service and Service Fabric because of the limitations they bring, Azure Functions will fit in your metaphoric Goldilocks zone. While App Service is stateless, and Service Fabric is stateful, Functions, on the other hand, gives you the freedom of developing both stateless and stateful microservices. This article is an overview of Azure Functions and discusses why you may want to choose Azure Functions as your microservice.
 
 App Service and Service Fabric expect tons of configurations resulting in a steep learning curve and decreased productivity. Functions, in comparison, are like an easy switch for quick development. It can be argued that Functions are opiniated to an extent. Due to this, you benefit with faster development. Also, you have complete freedom of architecting your use cases with any third-party dependencies, in almost any major programming language.

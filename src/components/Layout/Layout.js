@@ -10,7 +10,7 @@ type Props = {
   children: ReactNode,
   title: string,
   description?: string,
-  socialImage? :string
+  socialImage?: string
 };
 
 const Layout = ({
@@ -21,7 +21,12 @@ const Layout = ({
 }: Props) => {
   const { author, url } = useSiteMetadata();
   const metaImage = socialImage != null ? socialImage : author.photo;
-  const metaImageUrl = url + withPrefix(metaImage);
+  let metaImageUrl = metaImage.url + withPrefix(metaImage);
+  var pat = /^https?:\/\//i;
+  if (pat.test(metaImage)) {
+    metaImageUrl = metaImage;
+  }
+  
 
   return (
     <div className={styles.layout}>

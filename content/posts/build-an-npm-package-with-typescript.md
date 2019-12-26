@@ -1,6 +1,6 @@
 ---
 title: Build an npm package with TypeScript
-date: "2018-07-19T22:40:32.169Z"
+date: "2019-10-19T22:40:32.169Z"
 template: "post"
 draft: false
 slug: "build-an-npm-package-with-typescript"
@@ -12,6 +12,9 @@ tags:
 description: "This article would help you in deciding, designing, and deploying your no-dependency npm package with TypeScript. Lately, I was writing a survey application which renders beautiful, validated forms…"
 socialImage: "https://cdn-images-1.medium.com/max/2560/1*6BB30K16pSoODx0fz0mI_w.png"
 ---
+
+![Build an npm package with TypeScript](https://cdn-images-1.medium.com/max/2560/1*6BB30K16pSoODx0fz0mI_w.png)
+
 [Source Code](https://github.com/iwannabebot/universal-validator)
 
 This article would help you in deciding, designing, and deploying your no-dependency npm package with TypeScript. Topics covered here includes
