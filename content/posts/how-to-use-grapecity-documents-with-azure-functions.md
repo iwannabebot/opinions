@@ -31,6 +31,7 @@ Using GrapeCity Documents with Azure functions
 3. Create a new project GrapeCityDocsAzFunc by selecting, Visual C# > Cloud > Azure Functions.
 4. Open NuGet Package Manager, search GrapeCity.Documents, and install the packages: GrapeCity.Documents.Pdf and GrapeCity.Documents.Excel.
 5. Create an HTTP-triggered Azure function and name it GenerateExcel and add the content from the following code:
+
 ```cs
 using System.IO;
 using Microsoft.AspNetCore.Mvc;
@@ -88,6 +89,7 @@ namespace GrapeCityDocsAzFunc
 }
 ```
 6. Create an HTTP-triggered Azure function and name it GeneratePdf. Add the content from the following code
+
 ```cs
 using System.IO;
 using Microsoft.AspNetCore.Mvc;

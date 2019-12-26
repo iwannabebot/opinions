@@ -52,12 +52,10 @@ public static async Task<HttpResponseMessage> Run(
     TraceWriter log)
 {
     log.Info("Requsting proxy service.");
-
     // parse query parameter
     string region = req.GetQueryNameValuePairs()
         .FirstOrDefault(q => string.Compare(q.Key, "region", true) == 0)
         .Value;
-
     switch (region)
     {
         case "us":
@@ -69,12 +67,10 @@ public static async Task<HttpResponseMessage> Run(
         default:
             req.CreateResponse(HttpStatusCode.BadRequest, "Please pass a valid region");
             break;
-
     }
     using (var client = new HttpClient())
     {
         var request = new HttpRequestMessage(new HttpMethod("PATCH"), myRegionEndPoint);
-
         try
         {
             response = await (await client.SendAsync(request)).Content.ReadAsStringAsync());
@@ -107,13 +103,10 @@ public static void Run([TimerTrigger("0 */5 * * * *")]TimerInfo myTimer, TraceWr
 [FunctionName("GitHubWebhookTriggerCSharp ")]
 public static async Task<HttpResponseMessage> Run(HttpRequestMessage req, TraceWriter log)
 {
-
   // Get request body
   dynamic data = await req.Content.ReadAsAsync<object>();
-
   // Extract github comment from request body
   string gitHubComment = data?.comment?.body;
-
   return req.CreateResponse(HttpStatusCode.OK, "From Github:" + gitHubComment);
 }
 ```
@@ -269,7 +262,6 @@ using Microsoft.Azure.WebJobs;
 using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.Azure.WebJobs.Host;
 using Newtonsoft.Json.Linq;
-
 namespace GrapeCity.Blogs
 {
     public static class GenerateScheduleReport

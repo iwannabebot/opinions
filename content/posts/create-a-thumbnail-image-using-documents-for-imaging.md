@@ -154,13 +154,11 @@ public async Task<string> FunctionHandler(S3Event evnt, ILambdaContext context)
  { 
      return null; 
  } 
-
  try 
  { 
      var rs = await this.S3Client.GetObjectMetadataAsync( 
          s3Event.Bucket.Name, 
          s3Event.Object.Key); 
-
      if (rs.Headers.ContentType.StartsWith("image/")) 
      { 
          using (GetObjectResponse response = await S3Client.GetObjectAsync( 
