@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://www.nilayvishwakarma.com',
   pathPrefix: '/',
   title: 'Nilay Vishwakarma',
-  subtitle: 'Informed Liberal and Stargazer, I code for 🥣 and write for dopamine',
+  subtitle: 'Informed Liberal and Stargazer, I code for 🥣 and write for sanity',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -19,7 +19,7 @@ module.exports = {
   author: {
     name: 'Nilay Vishwakarma',
     photo: '/photo.jpg',
-    bio: 'Informed Liberal and Stargazer, I code for 🥣 and write for dopamine',
+    bio: 'Informed Liberal and Stargazer, I code for 🥣 and write for sanity',
     contacts: {
       email: 'nilayvishwakarma@gmail.com',
       facebook: '',
