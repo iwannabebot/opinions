@@ -1,6 +1,5 @@
 backend:
-  name: github
-  repo: iwannabebot/opinions
+  name: git-gateway
 
 media_folder: "static/media"
 public_folder: "/media"
