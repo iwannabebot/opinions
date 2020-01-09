@@ -1,13 +1,13 @@
 backend:
-  name: git-gateway
-  branch: master
+  name: github
+  repo: iwannabebot/opinions
 
 media_folder: "static/media"
 public_folder: "/media"
 
 # Uncomment to leverage Netlify CMS UI authoring flow
 # see: https://www.netlifycms.org/docs/configuration-options/#publish-mode
-# publish_mode: editorial_workflow
+publish_mode: editorial_workflow
 
 collections:
   - name: "posts"
