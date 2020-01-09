@@ -9,6 +9,7 @@ tags:
   - "Visual Studio Code"
   - "Fonts"
 description: "General programming involves using a large number of symbols. Lexically, these symbols are identified by your compiler as individual tokens. But for a human brain, sequences of symbols like <=, != are easier to process as single tokens"
+socialImage: "media/font-ligature.jpg"
 ---
 
 General programming involves using a large number of symbols. Lexically, these symbols are identified by your compiler as individual tokens. But for a human brain, sequences of symbols like <=, != are easier to process as single tokens.
