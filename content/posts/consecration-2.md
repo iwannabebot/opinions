@@ -3,7 +3,7 @@ title: "Consecration - 2"
 date: "2020-03-13T22:12:03.284Z"
 template: "post"
 draft: false
-slug: "consecration-1"
+slug: "consecration-2"
 category: "Opinion"
 socialImage: "media/empathy.jpg"
 tags:
