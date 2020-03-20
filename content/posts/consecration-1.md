@@ -1,5 +1,5 @@
 ---
-title: "Consecration - 1"
+title: "Consecration - 1 - Know your strength"
 date: "2020-03-06T22:12:03.284Z"
 template: "post"
 draft: false
