@@ -11,7 +11,7 @@
 on:
   push:
     branches:
-      - master
+      - publish
 
 env:
   AZURE_WEBAPP_NAME: nilaysopinions    # set this to your application's name
