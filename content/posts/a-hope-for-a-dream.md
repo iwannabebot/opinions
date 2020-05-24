@@ -1,15 +1,14 @@
 ---
-title: "Consecration - 3 - A hope of a dream"
+title: "A hope for a dream"
 date: "2020-05-25T12:12:03.284Z"
 template: "post"
-draft: true
-slug: "consecration-3"
+draft: false
+slug: "a-hope-for-a-dream"
 category: "Opinion"
 socialImage: "media/empathy.jpg"
 tags:
-  - "Consecration"
+  - "Dream"
 description: "You have one chance, one life. And what you do with that is up to you."
-special: true
 ---
 
 Make a wish and keep it in your heart. Choose anything you want or choose everything you want. Now believe that it will come true.
