@@ -18,7 +18,7 @@ module.exports = {
   ],
   author: {
     name: 'Nilay Vishwakarma',
-    photo: '/me.jpg',
+    photo: '/profile.jpg',
     bio: 'Informed Liberal and Stargazer, I code for 🥣 and write for sanity',
     contacts: {
       email: 'nilayvishwakarma@gmail.com',
